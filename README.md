@@ -26,7 +26,7 @@ Make sure you have the following installed on your machine:
    pip install -r requirements.txt
 
 3. Download the shape predictor file:
-   - in our main faceswap_realtime.py file, there is one file called shape_predictor_68_face_landmarks.dat which you can download from:
+   - in our main faceswap_realtime.py file, there is one file called shape_predictor_68_face_landmarks.dat which you can download from (download might take some time):
 
      http://dlib.net/files/shape_predictor_68_face_landmarks.dat.bz2
 
