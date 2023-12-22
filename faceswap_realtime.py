@@ -12,7 +12,7 @@ def extract_index_nparray(nparray):
     return index
 
 
-img = cv2.imread("6ad69511632af40e0585c30d34f0e4ed.jpg")
+img = cv2.imread("robert_downey_jr.jpg")
 img_gray = cv2.cvtColor(img, cv2.COLOR_BGR2GRAY)
 mask = np.zeros_like(img_gray)
 
